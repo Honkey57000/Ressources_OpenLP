@@ -23,7 +23,6 @@
 - Bible Chouraqui (CHU)
 - Bible du Semeur (BDS)
 - Bible en Français Courant (BFC)
-- Bible Louis Segond 1910 (LSG1910)
 - Bible Nouvelle version Segond révisée, dite à la Colombe, 1978 (La Colombe)
 - Bible Nouvelle édition de Genève 1979 (NEG)
 - Bible Nouvelle Français Courant (NFC)
@@ -31,8 +30,6 @@
 - Bible Segond 21 (S21)
 - Bible Traduction Officiel Liturgique (Liturgique)
 - Bible de Yéhoshoua Ha Mashiah (BYM)
-- Cosmogonie de Moïse (Antoine Fabre d'Olivet)
 - Évangiles traduis par Claude Tresmontant
 - Nouvelle Bible Segond (NBS)
 - Traduction œcuménique de la Bible (TOB)
-
